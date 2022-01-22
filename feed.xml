@@ -3,12 +3,44 @@
     <title>To The Trains</title>
     <link href="https://tothetrains.uk/feed.xml" rel="self" />
     <link href="https://tothetrains.uk" />
-    <updated>2022-01-21T22:00:13+00:00</updated>
+    <updated>2022-09-26T12:00:00+01:00</updated>
     <author>
         <name>Seb J.</name>
     </author>
     <id>https://tothetrains.uk</id>
 
+    <entry>
+        <title>The Class 801, LNER Azuma - Overview</title>
+        <author>
+            <name>Seb J.</name>
+        </author>
+        <link href="https://tothetrains.uk/class-801-lner-azuma-overview/"/>
+        <id>https://tothetrains.uk/class-801-lner-azuma-overview/</id>
+
+        <updated>2022-09-26T12:00:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://tothetrains.uk/media/posts/2/Thumbnail.png" alt="A Class 801 LNER Azuma at Peterborough" />
+                    A product of the Department for Transport's Intercity Express Programme, the Class 801 "Azuma", operated by London North Eastern Railway, is the successor of the InterCity 125 (HST) and InterCity 225 (Class 91 sets). Here's a brief insight into LNER's rolling stock, as well as&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://tothetrains.uk/media/posts/2/Thumbnail.png" alt="A Class 801 LNER Azuma at Peterborough" />
+                <p>A product of the Department for Transport's Intercity Express Programme, the Class 801 "Azuma", operated by London North Eastern Railway, is the successor of the InterCity 125 (HST) and InterCity 225 (Class 91 sets). Here's a brief insight into LNER's rolling stock, as well as Hitachi's other AT300/IET trains.</p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/wVyMPsV2jQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+<p>The conversation comparing IETs/AT300s to their predecessors amasses plenty of debate. What do you think of these new trains that are becoming increasingly common across the UK's rail network? Sure, they don't have the extras or features that made the HSTs and such iconic, but then again, these trains aren't being designed for railfans for you and me. At the end of the day, they get the job done, and get people around Britain as they were brought in to do.</p>
+<h4>Quick Facts</h4>
+<ol>
+<li>The Class 801 "Azuma" serves the East Coast Main Line, with services from London King's Cross to Edinburgh and beyond.</li>
+<li>The first 5-car /1 unit entered service on the 16th of September in 2019, with the /2s entering service later in the year in November.</li>
+<li>The Department for Transport's Intercity Express Programme aimed to find a suitable replacement for the aging InterCity 125 and InterCity 225 sets that operated the Great Western and East Coast Main Lines.</li>
+<li>Since the Class 800 and 801s entered service, many other train operating companies have also taken an interest in Hitachi's AT300 series.</li>
+<li>The latest of these is Lumo, the recently-unveiled budget train operator, which can be likened to many budget airlines. They will be offering budget services between London and Edinburgh from October 2021.</li>
+</ol>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Railway Rover: Western Europe&#x27;s Railways</title>
         <author>
@@ -18,7 +50,7 @@
         <id>https://tothetrains.uk/railway-rover-podcast-western-europe-railways/</id>
             <category term="Railway Rover"/>
 
-        <updated>2022-01-21T22:00:13+00:00</updated>
+        <updated>2022-01-22T22:05:31+00:00</updated>
             <summary>
                 <![CDATA[
                     This Railway Rover episode now approaching takes a look at continental Europe's railways, particularly in western Europe. We're joined by Ambroise, a resident of Belgium, to introduce you to the railways across the (English) Channel and highlight some key comparisons. We discuss everything from the&hellip;
@@ -30,7 +62,7 @@
 <p>We discuss everything from the train operating companies themselves to the rolling stock and those double decker trains unheard of across the UK. This is a particularly insightful episode for anyone interested in the railways across Europe.</p>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/UXkm4akpZS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
 <p><span class="style-scope yt-formatted-string" dir="auto">TrainFan World on YouTube: </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/channel/UCcFN6cQI6JmyH3b1fBUbbEw" rel="nofollow" dir="auto">https://www.youtube.com/channel/UCcFN...</a></p>
-<p><span class="style-scope yt-formatted-string" dir="auto">Available to listen on all main podcast streaming services.</span></p>
+<p><span class="style-scope yt-formatted-string" dir="auto">Railway Rover is available to listen on all main podcast streaming services.</span></p>
             ]]>
         </content>
     </entry>
