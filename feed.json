@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "To The Trains",
+    "description": "",
+    "home_page_url": "https://tothetrains.uk",
+    "feed_url": "https://tothetrains.uk/feed.json",
+    "user_comment": "",
+    "icon": "https://tothetrains.uk/media/website/Small-Logo.png",
+    "author": {
+        "name": "Seb J."
+    },
+    "items": [
+        {
+            "id": "https://tothetrains.uk/railway-rover-podcast-western-europe-railways/",
+            "url": "https://tothetrains.uk/railway-rover-podcast-western-europe-railways/",
+            "title": "Railway Rover: Western Europe&#x27;s Railways",
+            "summary": "This Railway Rover episode now approaching takes a look at continental Europe's railways, particularly in western Europe. We're joined by Ambroise, a resident of Belgium, to introduce you to the railways across the (English) Channel and highlight some key comparisons. We discuss everything from the&hellip;",
+            "content_html": "<p>This Railway Rover episode now approaching takes a look at continental Europe's railways, particularly in western Europe. We're joined by Ambroise, a resident of Belgium, to introduce you to the railways across the (English) Channel and highlight some key comparisons.</p>\n<p>We discuss everything from the train operating companies themselves to the rolling stock and those double decker trains unheard of across the UK. This is a particularly insightful episode for anyone interested in the railways across Europe.</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/UXkm4akpZS8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p><span class=\"style-scope yt-formatted-string\" dir=\"auto\">TrainFan World on YouTube: </span><a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://www.youtube.com/channel/UCcFN6cQI6JmyH3b1fBUbbEw\" rel=\"nofollow\" dir=\"auto\">https://www.youtube.com/channel/UCcFN...</a></p>\n<p><span class=\"style-scope yt-formatted-string\" dir=\"auto\">Available to listen on all main podcast streaming services.</span></p>",
+            "author": {
+                "name": "Seb J."
+            },
+            "tags": [
+                   "Railway Rover"
+            ],
+            "date_published": "2021-11-01T12:00:00+00:00",
+            "date_modified": "2022-01-21T22:00:13+00:00"
+        }
+    ]
+}

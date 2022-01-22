@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>To The Trains</title>
+    <link href="https://tothetrains.uk/feed.xml" rel="self" />
+    <link href="https://tothetrains.uk" />
+    <updated>2022-01-21T22:00:13+00:00</updated>
+    <author>
+        <name>Seb J.</name>
+    </author>
+    <id>https://tothetrains.uk</id>
+
+    <entry>
+        <title>Railway Rover: Western Europe&#x27;s Railways</title>
+        <author>
+            <name>Seb J.</name>
+        </author>
+        <link href="https://tothetrains.uk/railway-rover-podcast-western-europe-railways/"/>
+        <id>https://tothetrains.uk/railway-rover-podcast-western-europe-railways/</id>
+            <category term="Railway Rover"/>
+
+        <updated>2022-01-21T22:00:13+00:00</updated>
+            <summary>
+                <![CDATA[
+                    This Railway Rover episode now approaching takes a look at continental Europe's railways, particularly in western Europe. We're joined by Ambroise, a resident of Belgium, to introduce you to the railways across the (English) Channel and highlight some key comparisons. We discuss everything from the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This Railway Rover episode now approaching takes a look at continental Europe's railways, particularly in western Europe. We're joined by Ambroise, a resident of Belgium, to introduce you to the railways across the (English) Channel and highlight some key comparisons.</p>
+<p>We discuss everything from the train operating companies themselves to the rolling stock and those double decker trains unheard of across the UK. This is a particularly insightful episode for anyone interested in the railways across Europe.</p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/UXkm4akpZS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+<p><span class="style-scope yt-formatted-string" dir="auto">TrainFan World on YouTube: </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/channel/UCcFN6cQI6JmyH3b1fBUbbEw" rel="nofollow" dir="auto">https://www.youtube.com/channel/UCcFN...</a></p>
+<p><span class="style-scope yt-formatted-string" dir="auto">Available to listen on all main podcast streaming services.</span></p>
+            ]]>
+        </content>
+    </entry>
+</feed>
