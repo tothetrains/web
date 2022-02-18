@@ -3,7 +3,7 @@
     <title>To The Trains</title>
     <link href="https://tothetrains.uk/feed.xml" rel="self" />
     <link href="https://tothetrains.uk" />
-    <updated>2022-02-18T16:13:41+00:00</updated>
+    <updated>2022-02-18T16:27:34+00:00</updated>
     <author>
         <name>Seb J.</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://tothetrains.uk/watch-the-london-underground-live-with-traintrackrs-333-led-display/"/>
         <id>https://tothetrains.uk/watch-the-london-underground-live-with-traintrackrs-333-led-display/</id>
 
-        <updated>2022-02-18T16:13:41+00:00</updated>
+        <updated>2022-02-18T16:27:34+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tothetrains.uk/media/posts/9/tfl3_4.jpg" alt="Photo of board LEDs illuminating" />
@@ -42,7 +42,7 @@
 <p><span style="font-weight: 400;">Also promoted on the product page is how maker-friendly the product is. For enthusiasts with programming and microcontroller expertise, TrainTrackr has </span><a href="https://blog.traintrackr.io/?p=27"><span style="font-weight: 400;">an article detailing the steps to reprogram your board</span></a><span style="font-weight: 400;">. Those interested in the Arduino platform might have spotted the ESP8266 module, and yes, with the right libraries and board installed, you can indeed use the Arduino IDE to upload your own code.</span></p>
 <p><span style="font-weight: 400;">TrainTrackr will, in future, support custom API integrations so that you can send your own data directly to your tracker without the need to flash it with new software.</span></p>
 <hr>
-<p><span style="font-weight: 400;">Are you a frequent user of the District, Central, or Northern line? Well, you can find also boards for these lines (featuring LEDs for both directions), the smaller variant of the London Underground tracker, and a variety of other rapid transit and country/state maps on the TrainTrackr </span><a href="https://www.traintrackr.co.uk/product"><span style="font-weight: 400;">products page</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Are you a frequent user of the District, Central, or Northern line? Well, you can find also boards for these lines featuring LEDs for both directions. Also available on the TrainTrackr <a href="https://www.traintrackr.co.uk/product">products page</a> is the smaller variant of the London Underground tracker, and a variety of other rapid transit and country/state maps.</span></p>
 <p><em><span style="font-weight: 400;">Happy tracking!</span></em></p>
 <figure class="post__image post__image--wide"><img loading="lazy"  src="https://tothetrains.uk/media/posts/9/PXL_20220218_154232210-4.jpg" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://tothetrains.uk/media/posts/9/responsive/PXL_20220218_154232210-4-xs.jpg 300w ,https://tothetrains.uk/media/posts/9/responsive/PXL_20220218_154232210-4-sm.jpg 480w ,https://tothetrains.uk/media/posts/9/responsive/PXL_20220218_154232210-4-md.jpg 768w"  alt="Close-up of the LEDs illuminated in the colour of the respective arrival's line." width="4032" height="3024"></figure>
             ]]>
