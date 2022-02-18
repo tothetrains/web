@@ -5,6 +5,9 @@
 <loc>https://tothetrains.uk/</loc>
 </url>
 <url>
+<loc>https://tothetrains.uk/page/2/</loc>
+</url>
+<url>
 <loc>https://tothetrains.uk/write-with-us/</loc>
 <lastmod>2022-01-28T21:56:26+00:00</lastmod>
 </url>
@@ -47,5 +50,29 @@
 <url>
 <loc>https://tothetrains.uk/railway-rover-western-europes-railways/</loc>
 <lastmod>2022-01-30T20:58:52+00:00</lastmod>
+</url>
+<url>
+<loc>https://tothetrains.uk/watch-the-london-underground-live-with-traintrackrs-333-led-display/</loc>
+<lastmod>2022-02-18T16:06:17+00:00</lastmod>
+<image:image>
+<image:loc>https://tothetrains.uk/media\posts\9/002-01-trackrgif-3.gif</image:loc>
+<image:title><![CDATA[Animated photo of board LEDs illuminating]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://tothetrains.uk/media\posts\9/PXL_20220218_154023799.jpg</image:loc>
+<image:title><![CDATA[Full view of the tracker, with LEDs illuminated to indicate train arrivals]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://tothetrains.uk/media\posts\9/PXL_20220218_154213201-2.jpg</image:loc>
+<image:title><![CDATA[Close-up image of the 'London TrainTrackr' logo.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://tothetrains.uk/media\posts\9/PXL_20220218_154034214.jpg</image:loc>
+<image:title><![CDATA[Close up of the microcontroller powering the board.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://tothetrains.uk/media\posts\9/PXL_20220218_154232210-4.jpg</image:loc>
+<image:title><![CDATA[Close-up of the LEDs illuminated in the colour of the respective arrival's line.]]></image:title>
+</image:image>
 </url>
 </urlset>
