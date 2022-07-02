@@ -3,12 +3,66 @@
     <title>To The Trains</title>
     <link href="https://tothetrains.uk/feed.xml" rel="self" />
     <link href="https://tothetrains.uk" />
-    <updated>2022-06-12T16:12:40+01:00</updated>
+    <updated>2022-07-02T22:29:17+01:00</updated>
     <author>
         <name>Seb J.</name>
     </author>
     <id>https://tothetrains.uk</id>
 
+    <entry>
+        <title>Obelisk</title>
+        <author>
+            <name>Seb J.</name>
+        </author>
+        <link href="https://tothetrains.uk/obelisk/"/>
+        <id>https://tothetrains.uk/obelisk/</id>
+
+        <updated>2022-07-02T22:29:17+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Obelisk is planned to be the main bot for the To The Trains Discord server. Features from Dyno and Statbot will be adopted over time, eventually resulting in the phase out of these additional bots. Obelisk will serve as the main platform for server moderation, engagement, and oversight. During&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Obelisk</strong> is planned to be the main bot for the To The Trains Discord server. Features from <em>Dyno </em>and <em>Statbot </em>will be adopted over time, eventually resulting in the phase out of these additional bots. Obelisk will serve as the main platform for server moderation, engagement, and oversight. During development the source code will be proprietary - an open source release is tabled for when the majority of planned features are in working order.</p>
+<p>Obelisk is programmed in Python with the use of py-cord and dislash.py.</p>
+<h2>Help</h2>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 21.4783%;"><strong>Command</strong></td>
+<td style="width: 29.5677%;"><strong>Arguments</strong></td>
+<td style="width: 48.9539%;"><strong>Description</strong></td>
+</tr>
+<tr>
+<td style="width: 21.4783%;">/ping</td>
+<td style="width: 29.5677%;"> </td>
+<td style="width: 48.9539%;">Identifies and returns bot latency</td>
+</tr>
+<tr>
+<td style="width: 21.4783%;">/version</td>
+<td style="width: 29.5677%;"> </td>
+<td style="width: 48.9539%;">Identifies and returns bot version</td>
+</tr>
+</tbody>
+</table>
+<h2>Your Data</h2>
+<p>Obelisk can react to when a user joins or leaves and fetch the entire server member list, utilising the 'members' intent therefor. Obelisk cannot read the content of messages and can only interpret commands and their respective arguments.</p>
+<p>Obelisk collects and stores a database of various statistics:</p>
+<ul>
+<li>Quantity of messages sent per user</li>
+<li>Quantity of users invited per user</li>
+<li>Quantity of reactions per user</li>
+<li>Quantity of achievements unlocked per user</li>
+<li>Duration of server membership per user</li>
+<li>If you are boosting/have boosted the server</li>
+</ul>
+<h2>Formal Inquiries</h2>
+<p>For any reason, please contact <a href="mailto:obelisk@tothetrains.uk" target="_blank" rel="nofollow noopener noreferrer">obelisk@tothetrains.uk</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The EMR Class 158 &quot;Express Sprinter&quot;</title>
         <author>
