@@ -3,7 +3,7 @@
     <title>To The Trains</title>
     <link href="https://tothetrains.uk/feed.xml" rel="self" />
     <link href="https://tothetrains.uk" />
-    <updated>2022-07-02T22:29:17+01:00</updated>
+    <updated>2022-07-04T18:13:13+01:00</updated>
     <author>
         <name>Seb J.</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://tothetrains.uk/obelisk/"/>
         <id>https://tothetrains.uk/obelisk/</id>
 
-        <updated>2022-07-02T22:29:17+01:00</updated>
+        <updated>2022-07-04T18:13:13+01:00</updated>
             <summary>
                 <![CDATA[
                     Obelisk is planned to be the main bot for the To The Trains Discord server. Features from Dyno and Statbot will be adopted over time, eventually resulting in the phase out of these additional bots. Obelisk will serve as the main platform for server moderation, engagement, and oversight. During&hellip;
@@ -28,25 +28,31 @@
                 <p><strong>Obelisk</strong> is planned to be the main bot for the To The Trains Discord server. Features from <em>Dyno </em>and <em>Statbot </em>will be adopted over time, eventually resulting in the phase out of these additional bots. Obelisk will serve as the main platform for server moderation, engagement, and oversight. During development the source code will be proprietary - an open source release is tabled for when the majority of planned features are in working order.</p>
 <p>Obelisk is programmed in Python with the use of py-cord and dislash.py.</p>
 <h2>Help</h2>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%; height: 203px;" border="1">
 <tbody>
-<tr>
-<td style="width: 21.4783%;"><strong>Command</strong></td>
-<td style="width: 29.5677%;"><strong>Arguments</strong></td>
-<td style="width: 48.9539%;"><strong>Description</strong></td>
+<tr style="height: 50px;">
+<td style="width: 21.4783%; height: 50px;"><strong>Command</strong></td>
+<td style="width: 29.5677%; height: 50px;"><strong>Arguments</strong></td>
+<td style="width: 48.9539%; height: 50px;"><strong>Description</strong></td>
 </tr>
-<tr>
-<td style="width: 21.4783%;">/ping</td>
-<td style="width: 29.5677%;"> </td>
-<td style="width: 48.9539%;">Identifies and returns bot latency</td>
+<tr style="height: 51px;">
+<td style="width: 21.4783%; height: 51px;"><code>/ping</code></td>
+<td style="width: 29.5677%; height: 51px;"> </td>
+<td style="width: 48.9539%; height: 51px;">Identifies and returns bot latency</td>
 </tr>
-<tr>
-<td style="width: 21.4783%;">/version</td>
-<td style="width: 29.5677%;"> </td>
-<td style="width: 48.9539%;">Identifies and returns bot version</td>
+<tr style="height: 51px;">
+<td style="width: 21.4783%; height: 51px;"><code>/version</code></td>
+<td style="width: 29.5677%; height: 51px;"> </td>
+<td style="width: 48.9539%; height: 51px;">Identifies and returns bot version</td>
+</tr>
+<tr style="height: 51px;">
+<td style="width: 21.4783%; height: 51px;"><span style="color: #000000;"><code>/suggest</code></span></td>
+<td style="width: 29.5677%; height: 51px;"> </td>
+<td style="width: 48.9539%; height: 51px;">Opens the "Make a Suggestion" modal</td>
 </tr>
 </tbody>
 </table>
+<p><span style="color: #000000;"><code><span style="color: #000000;">(</span>*<span style="color: #000000;">: required)</span></code></span></p>
 <h2>Your Data</h2>
 <p>Obelisk can react to when a user joins or leaves and fetch the entire server member list, utilising the 'members' intent therefor. Obelisk cannot read the content of messages and can only interpret commands and their respective arguments.</p>
 <p>Obelisk collects and stores a database of various statistics:</p>
